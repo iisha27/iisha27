@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Isha Khurana</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-
 <img src="https://user-images.githubusercontent.com/77020164/153806717-dff02c3c-e022-4af5-8140-abc022be9c02.png" width="35%" height="35%"  align="right"  />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iisha27&label=Profile%20views&color=0e75b6&style=flat" alt="iisha27" /> </p>
 
 - 🔭 I’m currently working on **peronal projects**
 
@@ -25,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iisha27&show_icons=true&locale=en" alt="iisha27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iisha27&" alt="iisha27" /></p>
+
